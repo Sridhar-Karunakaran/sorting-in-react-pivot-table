@@ -1,6 +1,6 @@
 # Sorting in the React Pivot Table Component 
 
-A quick-start React project that helps you to sort field members and values in the Syncfusion React Pivot Table component.
+A quick-start React project that helps you to sort field members and values in the React Pivot Table component of Syncfusion.
 
 Documentation: https://ej2.syncfusion.com/react/documentation/pivotview/sorting/
 
